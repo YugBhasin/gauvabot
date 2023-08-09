@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key = "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"
+openai.api_key = "dusri api key dalni hai"
 
 messages = []
 system_msg = input("What is your name?\n")
